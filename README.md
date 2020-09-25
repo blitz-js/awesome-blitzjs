@@ -55,7 +55,11 @@ Hmm. It's kind of quiet here right now. At least you can learn how to [write you
 
 ## Articles
 
+In many cases, articles about [Next.js](https://github.com/unicodeveloper/awesome-nextjs#articles) can also be applied to Blitz.
+
 - [From Hello World to a production app: The magic of Blitz](https://kitze.io/posts/launching-fungarzione-with-blitz)
+- [Background workers in Blitz](https://medium.com/@johncantrell97/background-workers-in-blitz-31fe5f3b6ce6)
+- [How to work with inline SVG in Blitz.js(Next.js)](https://medium.com/@sa.nitawaki/how-to-work-with-inline-svg-in-blitz-js-nextjs-c0b86f8986d4)
 
 ## Videos
 
