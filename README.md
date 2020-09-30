@@ -82,4 +82,4 @@ In many cases, articles about [Next.js](https://github.com/unicodeveloper/awesom
 
 ## Contribute
 
-Found something interesting? Make a Pull Request! Please follow the [CONTRIBUTING guidelines](/CONTRIBUTING.md).
+Found something interesting? Make a Pull Request! Please follow the [CONTRIBUTING guidelines](/contributing.md).
