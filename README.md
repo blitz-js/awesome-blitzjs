@@ -25,16 +25,16 @@
 
 ## Community
 
-- [Forum](https://github.com/blitz-js/blitz/discussions)
-- [Blitz.js official Slack](https://slack.blitzjs.com/)
-- [Blitz.js Jobs](https://blitz-jobs.com/)
+- [:classical_building: Forum](https://github.com/blitz-js/blitz/discussions)
+- [:speech_balloon: Blitz.js official Slack](https://slack.blitzjs.com/)
+- [:office: Blitz.js Jobs](https://blitz-jobs.com/)
 
 ## Social
-* [Twitter](https://twitter.com/blitz_js)
+* [:bird: Twitter](https://twitter.com/blitz_js)
 
 ## Apps Built with Blitz.js
 
-- [Quirrel Console](https://github.com/quirrel-dev/quirrel.dev)
+- [Quirrel Console](https://github.com/quirrel-dev/quirrel.dev) - Job Queueing for Next.js x Vercel
 
 ## Packages
 
