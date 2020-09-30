@@ -1,33 +1,40 @@
-# awesome-blitz [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[<img src="https://raw.githubusercontent.com/blitz-js/art/master/github-cover-photo.png" align="right">](https://blitzjs.com/)
 
-> Curated list of resources for blitz-js
+# Awesome Blitz.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[Blitz.js](https://blitzjs.com/)
+> Curated list of resources about :zap: Blitz.js.
+
+## If you like Blitz.js, consider [Sponsoring the project](https://github.com/sponsors/blitz-js)
 
 ## Contents
 
-- [Getting Started](#getting-started)
+- [Get started](#get-started)
 - [Community](#community)
+- [Social](#social)
+- [Apps Built with Blitz.js](#apps-built-with-blitzjs)
 - [Packages](#packages)
 - [Recipes](#recipes)
 - [Articles](#articles)
 - [Videos](#videos)
 - [Contribute](contributing.md)
 
-## Getting Started
+## Get started
 
-### Documentation
-
-- [Github Repo](https://github.com/blitz-js/blitz)
-- [Official Docs](https://blitzjs.com/docs/getting-started)
-
+* [:zap: Website](https://blitzjs.com/)
+* [:book: Documentation](https://blitzjs.com/docs/getting-started)
 
 ## Community
 
 - [Forum](https://github.com/blitz-js/blitz/discussions)
-- [Slack](https://slack.blitzjs.com/)
+- [Blitz.js official Slack](https://slack.blitzjs.com/)
 - [Blitz.js Jobs](https://blitz-jobs.com/)
 
+## Social
+* [Twitter](https://twitter.com/blitz_js)
+
+## Apps Built with Blitz.js
+
+- [Quirrel Console](https://github.com/quirrel-dev/quirrel.dev)
 
 ## Packages
 
@@ -57,17 +64,22 @@ Hmm. It's kind of quiet here right now. At least you can learn how to [write you
 
 In many cases, articles about [Next.js](https://github.com/unicodeveloper/awesome-nextjs#articles) can also be applied to Blitz.
 
-- [From Hello World to a production app: The magic of Blitz](https://kitze.io/posts/launching-fungarzione-with-blitz)
-- [Background workers in Blitz](https://medium.com/@johncantrell97/background-workers-in-blitz-31fe5f3b6ce6)
-- [How to work with inline SVG in Blitz.js(Next.js)](https://medium.com/@sa.nitawaki/how-to-work-with-inline-svg-in-blitz-js-nextjs-c0b86f8986d4)
+* EN
+  * [Introduction to Blitz.js](https://dev.to/bnevilleoneill/introduction-to-blitz-js-187h)
+  * [Blitz.js a fullstack framework for the serverless era](https://dev.to/iamcherta/blitz-js-a-fullstack-framework-for-the-serverless-era-493j)
+  * [The Blitz.js Manifesto (A New Fullstack React Framework)](https://dev.to/flybayer/the-blitz-js-manifesto-a-new-react-framework-1gg7)
+  * [From Hello World to a production app: The magic of Blitz](https://kitze.io/posts/launching-fungarzione-with-blitz)
+  * [Background workers in Blitz](https://medium.com/@johncantrell97/background-workers-in-blitz-31fe5f3b6ce6)
+  * [How to work with inline SVG in Blitz.js(Next.js)](https://medium.com/@sa.nitawaki/how-to-work-with-inline-svg-in-blitz-js-nextjs-c0b86f8986d4)
 
 ## Videos
 
-- [Blitz: the Full-Stack React Framework - Brandon Bayer @ Prisma Day 2020](https://www.youtube.com/watch?time_continue=2&v=fIexr5UZfhU&feature=emb_title)
-- [Blitz.js & The Future of Fullstack — React Europe 2020](https://www.youtube.com/watch?v=ZSD5ifGTlag&feature=emb_title)
-- [Blitz.js - The full stack React Framework](https://www.youtube.com/watch?v=UsJl7Mn5Y0E&feature=emb_title)
-- [Mintbean Masterclass - BLITZ.JS with BRANDON BAYER](https://www.youtube.com/watch?v=3pnJx8GrJ2U)
+* EN
+  * [Blitz: the Full-Stack React Framework - Brandon Bayer @ Prisma Day 2020](https://www.youtube.com/watch?time_continue=2&v=fIexr5UZfhU&feature=emb_title)
+  * [Blitz.js & The Future of Fullstack — React Europe 2020](https://www.youtube.com/watch?v=ZSD5ifGTlag&feature=emb_title)
+  * [Blitz.js - The full stack React Framework](https://www.youtube.com/watch?v=UsJl7Mn5Y0E&feature=emb_title)
+  * [Mintbean Masterclass - BLITZ.JS with BRANDON BAYER](https://www.youtube.com/watch?v=3pnJx8GrJ2U)
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Found something interesting? Make a Pull Request! Please follow the [CONTRIBUTING guidelines](/CONTRIBUTING.md).
