@@ -58,7 +58,7 @@ blitz install render
 
 ### Custom Recipes
 
-Hmm. It's kind of quiet here right now. At least you can learn how to [write your own recipes](https://blitzjs.com/docs/writing-recipes).
+Got a big idea but don't know how to get started? Learn to [write your own recipes](https://blitzjs.com/docs/writing-recipes)!
 
 - [tailwindui](https://github.com/jamiedavenport/blitzjs-tailwindui-recipe) - Style your app with [Tailwind UI](https://tailwindui.com/)
 
