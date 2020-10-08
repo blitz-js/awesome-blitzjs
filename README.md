@@ -60,6 +60,8 @@ blitz install render
 
 Hmm. It's kind of quiet here right now. At least you can learn how to [write your own recipes](https://blitzjs.com/docs/writing-recipes).
 
+- [tailwindui](https://github.com/jamiedavenport/blitzjs-tailwindui-recipe) - Style your app with [Tailwind UI](https://tailwindui.com/)
+
 ## Articles
 
 In many cases, articles about [Next.js](https://github.com/unicodeveloper/awesome-nextjs#articles) can also be applied to Blitz.
