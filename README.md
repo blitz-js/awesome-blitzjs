@@ -39,6 +39,7 @@
 ## Packages
 
 - [superjson](https://github.com/blitz-js/superjson) - Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more.
+- [Blitz Guard](https://ntgussoni.github.io/blitz-guard/docs) - An authorization library which allows or restricts access to specific resources.
 
 ## Recipes
 
