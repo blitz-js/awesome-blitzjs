@@ -86,7 +86,7 @@ In many cases, articles about [Next.js](https://github.com/unicodeveloper/awesom
 
 ## Learning resources
 * EN
-  * [Workshop: Building a simple leaderboard with Blitz](https://github.com/SigurdMW/blitzjs-workshop)
+  * [Workshop: Building a leaderboard with Blitz](https://github.com/SigurdMW/blitzjs-workshop)
 
 ## Contribute
 
