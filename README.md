@@ -16,7 +16,7 @@
 - [Recipes](#recipes)
 - [Articles](#articles)
 - [Videos](#videos)
-- [Learning resources](#learningresources)
+- [Learning resources](#learning-resources)
 - [Contribute](contributing.md)
 
 ## Get started
@@ -86,7 +86,7 @@ In many cases, articles about [Next.js](https://github.com/unicodeveloper/awesom
 
 ## Learning resources
 * EN
- * [Workshop: Building a simple leaderboard with Blitz](https://github.com/SigurdMW/blitzjs-workshop)
+  * [Workshop: Building a simple leaderboard with Blitz](https://github.com/SigurdMW/blitzjs-workshop)
 
 ## Contribute
 
