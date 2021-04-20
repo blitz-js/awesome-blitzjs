@@ -52,7 +52,7 @@ blitz install render
 
 ### Official Recipes
 
-- [chakra](https://github.com/blitz-js/blitz/tree/canary/recipes/chakra) - Style your app with [Chakra UI](https://chakra-ui.com/)
+- [chakra](https://github.com/blitz-js/blitz/tree/canary/recipes/chakra-ui) - Style your app with [Chakra UI](https://chakra-ui.com/)
 - [emotion](https://github.com/blitz-js/blitz/tree/canary/recipes/emotion) - Style your app with [Emotion](https://emotion.sh/docs/introduction)
 - [material-ui](https://github.com/blitz-js/blitz/tree/canary/recipes/material-ui) - Style your app with [Material-UI](https://material-ui.com/)
 - [render](https://github.com/blitz-js/blitz/tree/canary/recipes/render) - Deploy with [render.com](https://render.com)
