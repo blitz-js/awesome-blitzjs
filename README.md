@@ -62,6 +62,7 @@ blitz install render
 
 Got a big idea but don't know how to get started? Learn to [write your own recipes](https://blitzjs.com/docs/writing-recipes)!
 
+- [swagger](https://github.com/anolilab/blitzjs-swagger-recipe) - Added swagger ui based on swagger jsdoc
 - [tailwindui](https://github.com/jamiedavenport/blitzjs-tailwindui-recipe) - Style your app with [Tailwind UI](https://tailwindui.com/)
 
 ## Articles
