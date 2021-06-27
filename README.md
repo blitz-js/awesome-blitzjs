@@ -28,7 +28,6 @@
 
 - [:classical_building: Forum](https://github.com/blitz-js/blitz/discussions)
 - [:speech_balloon: Blitz.js official Slack](https://slack.blitzjs.com/)
-- [:office: Blitz.js Jobs](https://blitz-jobs.com/)
 
 ## Social
 * [:bird: Twitter](https://twitter.com/blitz_js)
