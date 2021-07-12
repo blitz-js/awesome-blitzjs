@@ -83,6 +83,7 @@ In many cases, articles about [Next.js](https://github.com/unicodeveloper/awesom
   * [Blitz.js & The Future of Fullstack — React Europe 2020](https://www.youtube.com/watch?v=ZSD5ifGTlag&feature=emb_title)
   * [Blitz.js - The full stack React Framework](https://www.youtube.com/watch?v=UsJl7Mn5Y0E&feature=emb_title)
   * [Mintbean Masterclass - BLITZ.JS with BRANDON BAYER](https://www.youtube.com/watch?v=3pnJx8GrJ2U)
+  * [Blitz, the Fullstack React framework - Brandon Bayer | GURU TALKS](https://youtu.be/Jc0byVRqa70)
 
 ## Learning resources
 * EN
