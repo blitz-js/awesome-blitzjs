@@ -27,7 +27,7 @@
 ## Community
 
 - [:classical_building: Forum](https://github.com/blitz-js/blitz/discussions)
-- [:speech_balloon: Blitz.js official Slack](https://slack.blitzjs.com/)[ARCHIVED]
+- [:speech_balloon: Blitz.js official Slack](https://slack.blitzjs.com/) [ARCHIVED]
 - [:speech_balloon: Blitz.js official Discord](http://discord.blitzjs.com/)
 
 ## Social
