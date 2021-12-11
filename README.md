@@ -80,11 +80,13 @@ In many cases, articles about [Next.js](https://github.com/unicodeveloper/awesom
 ## Videos
 
 * EN
-  * [Blitz: the Full-Stack React Framework - Brandon Bayer @ Prisma Day 2020](https://www.youtube.com/watch?time_continue=2&v=fIexr5UZfhU&feature=emb_title)
-  * [Blitz.js & The Future of Fullstack — React Europe 2020](https://www.youtube.com/watch?v=ZSD5ifGTlag&feature=emb_title)
-  * [Blitz.js - The full stack React Framework](https://www.youtube.com/watch?v=UsJl7Mn5Y0E&feature=emb_title)
-  * [Mintbean Masterclass - BLITZ.JS with BRANDON BAYER](https://www.youtube.com/watch?v=3pnJx8GrJ2U)
-  * [Blitz, the Fullstack React framework - Brandon Bayer | GURU TALKS](https://youtu.be/Jc0byVRqa70)
+  * May 2020 - [Blitz.js & The Future of Fullstack — React Europe 2020](https://www.youtube.com/watch?v=ZSD5ifGTlag)
+  * Jul 2020 - [Blitz: the Full-Stack React Framework - Brandon Bayer @ Prisma Day 2020](https://www.youtube.com/watch?v=fIexr5UZfhU)
+  * Sep 2020 - [Blitz.js - The full stack React Framework](https://www.youtube.com/watch?v=UsJl7Mn5Y0E)
+  * Sep 2020 - [Mintbean Masterclass - BLITZ.JS with BRANDON BAYER](https://www.youtube.com/watch?v=3pnJx8GrJ2U)
+  * Mar 2021 - [Blitz, the Fullstack React framework - Brandon Bayer | GURU TALKS](https://youtu.be/Jc0byVRqa70)
+  * Jul 2021 - [Let's Learn Blitz.js! (with Brandon Bayer) — Learn With Jason](https://www.youtube.com/watch?v=GAcjC2Aold0)
+  * Oct 2021 - [20 min Intro to Blitz.js](https://www.youtube.com/watch?v=TTe56M1QscM)
 
 ## Learning resources
 * EN
