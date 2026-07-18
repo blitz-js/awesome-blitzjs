@@ -98,7 +98,7 @@ In many cases, articles about [Next.js](https://github.com/unicodeveloper/awesom
 ## Learning resources
 * EN
   * [Workshop: Building a leaderboard with Blitz](https://github.com/SigurdMW/blitzjs-workshop)
-  * [Upgrading to Blitz 2.0](https://blitzjs.com/docs/upgrading-from-framework) - Official migration guide and codemod for legacy Blitz apps.
+  * [Upgrading from the Blitz Framework](https://blitzjs.com/docs/upgrading-from-framework) - Official migration guide and codemod for legacy Blitz apps.
   * [Using Blitz Toolkit with Next.js 13](https://blitzjs.com/docs/usage-next-13) - Official guide for integrating Blitz RPC and Auth with the App Router.
 
 ## Contribute
