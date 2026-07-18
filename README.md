@@ -36,11 +36,18 @@
 ## Apps Built with Blitz.js
 
 - [Quirrel Console](https://github.com/quirrel-dev/quirrel.dev) - Job Queueing for Next.js x Vercel
+- [Placemark](https://www.placemark.io/) - Collaborative web-based GeoJSON and geographic data editor.
+- [hire.win](https://hire.win/) - Open-source applicant tracking system with Stripe billing and role-based permissions.
+- [Twoclicks](https://twoclicks.vercel.app/) - Social profile and link-in-bio tool.
 
 ## Packages
 
 - [superjson](https://github.com/blitz-js/superjson) - Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more.
 - [Blitz Guard](https://ntgussoni.github.io/blitz-guard/docs) - An authorization library which allows or restricts access to specific resources.
+- [@blitzjs/rpc](https://github.com/blitz-js/blitz/tree/main/packages/blitz-rpc) - Zero-API data layer for importing server queries and mutations directly in components.
+- [@blitzjs/auth](https://github.com/blitz-js/blitz/tree/main/packages/blitz-auth) - Framework-agnostic session authentication with secure password hashing and Passport.js integration.
+- [@blitzjs/next](https://github.com/blitz-js/blitz/tree/main/packages/blitz-next) - Official Blitz adapter for Next.js with SuperJSON-powered server wrappers and App Router support.
+- [next-superjson-plugin](https://github.com/blitz-js/next-superjson-plugin) - SWC plugin for Next.js that transparently serializes Dates, Maps, and Sets.
 
 ## Recipes
 
@@ -91,6 +98,8 @@ In many cases, articles about [Next.js](https://github.com/unicodeveloper/awesom
 ## Learning resources
 * EN
   * [Workshop: Building a leaderboard with Blitz](https://github.com/SigurdMW/blitzjs-workshop)
+  * [Upgrading to Blitz 2.0](https://blitzjs.com/docs/upgrading-from-framework) - Official migration guide and codemod for legacy Blitz apps.
+  * [Using Blitz Toolkit with Next.js 13](https://blitzjs.com/docs/usage-next-13) - Official guide for integrating Blitz RPC and Auth with the App Router.
 
 ## Contribute
 
